@@ -1,0 +1,40 @@
+{
+  "fileId": "1ndo00a6vzc9a1807h1rosynch",
+  "originalName": "Certificate_page-0001 (1).jpg",
+  "originalType": "image/jpeg",
+  "originalSize": 996292,
+  "salt": [
+    92,
+    240,
+    151,
+    162,
+    232,
+    173,
+    196,
+    139,
+    191,
+    195,
+    29,
+    32,
+    94,
+    80,
+    217,
+    183
+  ],
+  "iv": [
+    170,
+    0,
+    141,
+    119,
+    8,
+    57,
+    72,
+    27,
+    44,
+    15,
+    186,
+    64
+  ],
+  "encryptedSize": 996308,
+  "uploadDate": "2025-09-29T17:09:14.089Z"
+}
